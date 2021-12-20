@@ -11,5 +11,5 @@ Once you get past simple programs with one or two variables, you'll use data str
 * Trees and graphs
 ### Date Started
 December 19th, 2021
-## Date Finished
+### Date Finished
 TBD
